@@ -1,0 +1,1 @@
+A collection of the various algorithm/data structure problems I have solved on dmoj.ca, including topics such as segment trees/disjoint sets, graph theory, recursion, and dynamic programming. 
